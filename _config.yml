@@ -9,7 +9,7 @@ sections:
 - name: Poster Presentations
   title: Poster Presentations
 shortname: LoG
-start: &1 2024-11-26
+start: 2024-11-26
 volume: '269'
 year: '2024'
 layout: proceedings
@@ -74,7 +74,7 @@ conference:
   url: https://log2024.logconference.org/
   location: Virtual
   dates:
-  - *1
+  - 2024-11-26
   - 2024-11-27
   - 2024-11-28
   - 2024-11-29
